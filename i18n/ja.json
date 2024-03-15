@@ -2915,7 +2915,7 @@
             "sell": "神器を一個売りまーす！",
             "buy": "神器を一個買いまーす！",
             "addItem": "神器を一個もらしまーす！",
-            "setElement": "{{element}}に染めちゃったんだよね！？",
+            "setElement": "{{element}}に染めたんだよね！？",
             "doubleAtk": "攻撃力をバイにする",
             "counterAtk": "攻{ダメージ}",
             "counter2xAtk": "攻{ダメージ×2}",
