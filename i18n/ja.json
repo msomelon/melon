@@ -1903,7 +1903,7 @@
             "isPlusAtk": true,
             "cost": 2,
             "giftRate": 1,
-            "name": "＜火の玉＞"
+            "name": "＜ヒートマスオ＞"
         },
         {
             "imageName": "ice",
@@ -1912,7 +1912,7 @@
             "atk": 4,
             "cost": 2,
             "giftRate": 1,
-            "name": "＜氷＞"
+            "name": "＜ガリガリ君＞"
         },
         {
             "imageName": "darkness",
@@ -1921,7 +1921,7 @@
             "atk": 5,
             "cost": 5,
             "giftRate": 1,
-            "name": "＜闇＞"
+            "name": "＜お歯黒＞"
         },
         {
             "imageName": "big-tree",
@@ -1930,7 +1930,7 @@
             "atk": 6,
             "cost": 3,
             "giftRate": 1,
-            "name": "＜大木＞"
+            "name": "＜ウッドマスオ＞"
         },
         {
             "imageName": "rock",
@@ -1939,7 +1939,7 @@
             "atk": 8,
             "cost": 4,
             "giftRate": 1,
-            "name": "＜岩＞"
+            "name": "＜ロックマスオ＞"
         },
         {
             "imageName": "flame",
@@ -1948,7 +1948,7 @@
             "atk": 10,
             "cost": 5,
             "giftRate": 1,
-            "name": "＜炎＞"
+            "name": "＜FIRE＞"
         },
         {
             "imageName": "absorption",
@@ -1958,7 +1958,7 @@
             "ability": "absorbHP",
             "cost": 10,
             "giftRate": 1,
-            "name": "＜吸収＞"
+            "name": "＜ありま～す！！＞"
         },
         {
             "imageName": "meteor",
@@ -1968,7 +1968,7 @@
             "isPlusAtk": true,
             "cost": 7,
             "giftRate": 1,
-            "name": "＜流星＞"
+            "name": "＜阿波踊りスオ＞"
         },
         {
             "imageName": "waterfall",
@@ -1977,7 +1977,7 @@
             "atk": 25,
             "cost": 12,
             "giftRate": 1,
-            "name": "＜滝＞"
+            "name": "＜アリマーキュリー＞"
         },
         {
             "imageName": "wind",
@@ -1986,7 +1986,7 @@
             "curse": "cold",
             "cost": 6,
             "giftRate": 1,
-            "name": "＜風＞"
+            "name": "＜激辛ドッキリ＞"
         },
         {
             "imageName": "heaven-wind",
@@ -1995,7 +1995,7 @@
             "curse": "heaven",
             "cost": 15,
             "giftRate": 1,
-            "name": "＜天国風＞"
+            "name": "＜カイテキニデキル＞"
         },
         {
             "imageName": "fog",
@@ -2005,7 +2005,7 @@
             "curse": "fog",
             "cost": 3,
             "giftRate": 1,
-            "name": "＜霧＞"
+            "name": "＜加湿器＞"
         },
         {
             "imageName": "dream",
@@ -2015,7 +2015,7 @@
             "curse": "dream",
             "cost": 6,
             "giftRate": 1,
-            "name": "＜夢＞"
+            "name": "＜もうダメだ＞"
         },
         {
             "imageName": "dark-cloud",
@@ -2025,7 +2025,7 @@
             "curse": "darkcloud",
             "cost": 5,
             "giftRate": 1,
-            "name": "＜暗雲＞"
+            "name": "＜は？ふざけんなよ！＞"
         },
         {
             "imageName": "flash",
@@ -2037,7 +2037,7 @@
             "curse": "flash",
             "cost": 3,
             "giftRate": 1,
-            "name": "＜閃光＞"
+            "name": "＜太陽光＞"
         },
         {
             "imageName": "smoke",
@@ -2047,7 +2047,7 @@
             "hitRate": 75,
             "cost": 4,
             "giftRate": 1,
-            "name": "＜煙＞"
+            "name": "＜マグマダイブマン＞"
         },
         {
             "imageName": "avalanche",
@@ -2057,7 +2057,7 @@
             "hitRate": 75,
             "cost": 6,
             "giftRate": 1,
-            "name": "＜雪崩＞"
+            "name": "＜バブルマスオ＞"
         },
         {
             "imageName": "thunder",
@@ -2067,7 +2067,7 @@
             "hitRate": 25,
             "cost": 4,
             "giftRate": 1,
-            "name": "＜雷＞"
+            "name": "＜雷がすごい！＞"
         },
         {
             "imageName": "mudflow",
@@ -2077,7 +2077,7 @@
             "hitRate": 50,
             "cost": 6,
             "giftRate": 1,
-            "name": "＜土石流＞"
+            "name": "＜メタルマスオ＞"
         },
         {
             "imageName": "magma",
@@ -2087,7 +2087,7 @@
             "hitRate": 75,
             "cost": 10,
             "giftRate": 1,
-            "name": "＜マグマ＞"
+            "name": "＜大火事＞"
         },
         {
             "imageName": "ice-age",
@@ -2097,7 +2097,7 @@
             "hitRate": 75,
             "cost": 30,
             "giftRate": 1,
-            "name": "＜氷河期＞"
+            "name": "＜水まんじゅう＞"
         },
         {
             "imageName": "aura",
@@ -2106,7 +2106,7 @@
             "ability": "doubleAtk",
             "cost": 6,
             "giftRate": 1,
-            "name": "＜オーラ＞"
+            "name": "＜ガッツマスオ＞"
         },
         {
             "imageName": "mirage",
@@ -2115,7 +2115,7 @@
             "ability": "attackEveryEnemy",
             "cost": 5,
             "giftRate": 1,
-            "name": "＜蜃気楼＞"
+            "name": "＜メリーゴーランド！＞"
         },
         {
             "imageName": "wall",
@@ -2123,7 +2123,7 @@
             "ability": "blockWeapon",
             "cost": 6,
             "giftRate": 1,
-            "name": "＜壁＞"
+            "name": "＜否定キン＞"
         },
         {
             "imageName": "turbulence",
@@ -2131,7 +2131,7 @@
             "ability": "bounceMiracle",
             "cost": 5,
             "giftRate": 1,
-            "name": "＜乱気流＞"
+            "name": "＜暴風オ＞"
         },
         {
             "imageName": "spring",
@@ -2141,7 +2141,7 @@
             "abilityValue": 10,
             "cost": 7,
             "giftRate": 1,
-            "name": "＜泉＞"
+            "name": "＜みそきん＞"
         },
         {
             "imageName": "treasure",
@@ -2151,7 +2151,7 @@
             "abilityValue": 10,
             "cost": 5,
             "giftRate": 1,
-            "name": "＜財宝＞"
+            "name": "＜初めての金取引＞"
         },
         {
             "imageName": "tone",
@@ -2159,7 +2159,7 @@
             "ability": "removeMildCurses",
             "cost": 2,
             "giftRate": 1,
-            "name": "＜音色＞"
+            "name": "＜Youtubeテーマソング＞"
         },
         {
             "imageName": "song",
@@ -2167,7 +2167,7 @@
             "ability": "removeAllCurses",
             "cost": 5,
             "giftRate": 1,
-            "name": "＜歌声＞"
+            "name": "＜かえるのがっしょう＞"
         },
         {
             "imageName": "release",
@@ -2175,7 +2175,7 @@
             "ability": "setGuardian",
             "cost": 15,
             "giftRate": 1,
-            "name": "＜解放＞"
+            "name": "＜衝撃情報＞"
         },
         {
             "imageName": "small-devil",
