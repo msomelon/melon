@@ -4,13 +4,13 @@
             "imageName": "discard",
             "category": "trade",
             "ability": "discard",
-            "name": "捨テオTV"
+            "name": "ｶｲ捨ﾃｷﾆﾃﾞｷﾙ"
         },
         {
             "imageName": "sacrifice",
             "category": "trade",
             "ability": "sacrifice",
-            "name": "捧ゲオTV"
+            "name": "捧ゲイ"
         },
         {
             "imageName": "exchange",
@@ -18,7 +18,7 @@
             "ability": "exchange",
             "price": 5,
             "giftRate": 20,
-            "name": "両替オTV"
+            "name": "両替オ"
         },
         {
             "imageName": "sell",
@@ -26,7 +26,7 @@
             "ability": "sell",
             "price": 5,
             "giftRate": 20,
-            "name": "売リオTV"
+            "name": "売リオ"
         },
         {
             "imageName": "buy",
@@ -34,7 +34,7 @@
             "ability": "buy",
             "price": 5,
             "giftRate": 20,
-            "name": "買イオTV"
+            "name": "買イマスオ"
         },
         {
             "imageName": "bronze-club",
