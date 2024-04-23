@@ -1607,7 +1607,7 @@
             "ability": "blockMiracle",
             "price": 15,
             "giftRate": 1,
-            "name": "六年のゲイマスオ"
+            "name": "令和六年のゲイマスオ"
         },
         {
             "imageName": "dreaming-hat",
@@ -1618,7 +1618,7 @@
             "curse": "dream",
             "price": 15,
             "giftRate": 1,
-            "name": "夢見る帽子"
+            "name": "ｹﾞｲﾃｨｯｸドリーマー"
         },
         {
             "imageName": "angel-armor",
@@ -1627,7 +1627,7 @@
             "ability": "blockMiracle",
             "price": 15,
             "giftRate": 1,
-            "name": "エンゼルアーマー"
+            "name": "マ子オの未芸Y宇宙be"
         },
         {
             "imageName": "god-shield",
@@ -1635,7 +1635,7 @@
             "def": 30,
             "price": 30,
             "giftRate": 1,
-            "name": "神の盾"
+            "name": "さいきょうむてきまんｼｰﾙﾄﾞ！"
         },
         {
             "imageName": "mars-ring",
@@ -1645,7 +1645,7 @@
             "ability": "counterAtk",
             "price": 10,
             "giftRate": 1,
-            "name": "火星の指輪"
+            "name": "T.V.ﾏｽｵはｹﾞｲなのか？"
         },
         {
             "imageName": "mercury-ring",
@@ -1655,7 +1655,7 @@
             "curse": "fog",
             "price": 10,
             "giftRate": 1,
-            "name": "水星の指輪"
+            "name": "ﾌﾞｸﾚｼｭﾃｨのマスオ"
         },
         {
             "imageName": "jupiter-ring",
@@ -1665,7 +1665,7 @@
             "curse": "dream",
             "price": 10,
             "giftRate": 1,
-            "name": "木星の指輪"
+            "name": "月見マスオ"
         },
         {
             "imageName": "saturn-ring",
@@ -1674,7 +1674,7 @@
             "ability": "counter2xAtk",
             "price": 10,
             "giftRate": 1,
-            "name": "土星の指輪"
+            "name": "セックスの杖刀人"
         },
         {
             "imageName": "uranus-ring",
@@ -1684,7 +1684,7 @@
             "curse": "flash",
             "price": 10,
             "giftRate": 1,
-            "name": "天王の指輪"
+            "name": "萃マスオ"
         },
         {
             "imageName": "pluto-ring",
@@ -1694,7 +1694,7 @@
             "curse": "darkcloud",
             "price": 10,
             "giftRate": 1,
-            "name": "冥王の指輪"
+            "name": "東の国の眠らないﾏｽｵ"
         },
         {
             "imageName": "neptune-ring",
@@ -1703,7 +1703,7 @@
             "ability": "counterBoost2xMP",
             "price": 10,
             "giftRate": 1,
-            "name": "海王の指輪"
+            "name": "マスオ跋扈"
         },
         {
             "imageName": "venus-ring",
@@ -1712,7 +1712,7 @@
             "ability": "counterTakeCP",
             "price": 10,
             "giftRate": 1,
-            "name": "金星の指輪"
+            "name": "六十年目のﾏｽｵ裁判"
         },
         {
             "imageName": "rainbow-curtain",
@@ -1720,7 +1720,7 @@
             "ability": "filterAtkElement",
             "price": 15,
             "giftRate": 3,
-            "name": "虹のカーテン"
+            "name": "令和のゲイマスオ"
         },
         {
             "imageName": "super-mirror",
@@ -1728,7 +1728,7 @@
             "ability": "reflectAnything",
             "price": 10,
             "giftRate": 1,
-            "name": "スーパーミラー"
+            "name": "マスオじみたバグ"
         },
         {
             "imageName": "smile-dew",
