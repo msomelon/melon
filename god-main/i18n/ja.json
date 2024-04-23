@@ -2621,7 +2621,7 @@
             "guardian": "mars",
             "ability": "setCurseOfEverybody",
             "curse": "fever",
-            "name": "夕焼け"
+            "name": "【悲報】"
         },
         {
             "imageName": "dense-fog",
@@ -2629,14 +2629,14 @@
             "guardian": "mercury",
             "ability": "setCurseOfEverybody",
             "curse": "fog",
-            "name": "濃霧"
+            "name": "濃ション霧風呂に～"
         },
         {
             "imageName": "mushroom-outbreak",
             "category": "phenomena",
             "guardian": "jupiter",
             "ability": "confuseEverybody",
-            "name": "きのこ大発生"
+            "name": "ちんちんメリーゴーランド！"
         },
         {
             "imageName": "tornado",
@@ -2644,7 +2644,7 @@
             "guardian": "saturn",
             "ability": "setHPOfEverybody",
             "abilityValue": 1,
-            "name": "竜巻"
+            "name": "ゲイゲイマスオ"
         },
         {
             "imageName": "gigantic-tub",
@@ -2652,7 +2652,7 @@
             "element": "light",
             "atk": 50,
             "ability": "attackSomebody",
-            "name": "巨大なタライ"
+            "name": "エッチな家だ"
         },
         {
             "imageName": "black-hole",
@@ -2660,7 +2660,7 @@
             "element": "darkness",
             "atk": 30,
             "hitRate": 75,
-            "name": "ブラックホール"
+            "name": "バイマスオ"
         },
         {
             "imageName": "warm-current",
@@ -2668,28 +2668,28 @@
             "guardian": "neptune",
             "ability": "boostHP",
             "abilityValue": 50,
-            "name": "暖流"
+            "name": "ローションですよ"
         },
         {
             "imageName": "gold-mountain",
             "category": "phenomena",
             "guardian": "venus",
             "ability": "collectCPOfEverybody",
-            "name": "金山"
+            "name": "僕はヒカ金！"
         },
         {
             "imageName": "magnetic-storm",
             "category": "phenomena",
             "guardian": "earth",
             "ability": "shuffleItemsOfEverybody",
-            "name": "磁気嵐"
+            "name": "間違えた～！！"
         },
         {
             "imageName": "solar-eclipse",
             "category": "phenomena",
             "guardian": "moon",
             "ability": "setGuardianOfEverybody",
-            "name": "日食"
+            "name": "コラボ動画"
         }
     ],
     "texts": {
