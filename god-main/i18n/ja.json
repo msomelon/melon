@@ -1038,7 +1038,7 @@
             "def": 1,
             "price": 1,
             "giftRate": 10,
-            "name": "革の帽子"
+            "name": "開演間スオ"
         },
         {
             "imageName": "sky-boots",
@@ -1047,7 +1047,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "スカイブーツ"
+            "name": "曲名不明マスオ"
         },
         {
             "imageName": "aqua-shoes",
@@ -1056,7 +1056,7 @@
             "def": 1,
             "price": 2,
             "giftRate": 1,
-            "name": "アクアシューズ"
+            "name": "アイスでで実験"
         },
         {
             "imageName": "laurel-wreath",
@@ -1065,7 +1065,7 @@
             "def": 1,
             "price": 2,
             "giftRate": 1,
-            "name": "草かんむり"
+            "name": "枝豆・・・。"
         },
         {
             "imageName": "slate",
@@ -1074,7 +1074,7 @@
             "def": 1,
             "price": 2,
             "giftRate": 1,
-            "name": "石版"
+            "name": "りマジでやらかした"
         },
         {
             "imageName": "leather-clothes",
@@ -1082,7 +1082,7 @@
             "def": 2,
             "price": 2,
             "giftRate": 10,
-            "name": "革の服"
+            "name": "痩せられるやつ"
         },
         {
             "imageName": "sparkle-glove",
@@ -1091,7 +1091,7 @@
             "def": 2,
             "price": 4,
             "giftRate": 1,
-            "name": "火花の手袋"
+            "name": "幼きマスオ"
         },
         {
             "imageName": "aqua-glove",
@@ -1100,7 +1100,7 @@
             "def": 2,
             "price": 4,
             "giftRate": 1,
-            "name": "アクアグローブ"
+            "name": "ダンスアイス"
         },
         {
             "imageName": "wood-shield",
