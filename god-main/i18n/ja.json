@@ -18,7 +18,7 @@
             "ability": "exchange",
             "price": 5,
             "giftRate": 20,
-            "name": "両替ション風呂"
+            "name": "両ション替風呂"
         },
         {
             "imageName": "sell",
@@ -1109,7 +1109,7 @@
             "def": 2,
             "price": 4,
             "giftRate": 1,
-            "name": "木の盾"
+            "name": "広有射マスオ事"
         },
         {
             "imageName": "bedrock",
@@ -1118,7 +1118,7 @@
             "def": 2,
             "price": 4,
             "giftRate": 1,
-            "name": "岩盤"
+            "name": "黒いゲイマスオ"
         },
         {
             "imageName": "iron-gauntlet",
@@ -1126,7 +1126,7 @@
             "def": 3,
             "price": 3,
             "giftRate": 8,
-            "name": "アイアンガントレット"
+            "name": "全然思い浮かばない･･･"
         },
         {
             "imageName": "ogres-shoes",
@@ -1136,7 +1136,7 @@
             "def": 3,
             "price": 10,
             "giftRate": 1,
-            "name": "鬼のくつ"
+            "name": "天鵞絨魔酢汚戦"
         },
         {
             "imageName": "sky-gauntlet",
@@ -1145,7 +1145,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "スカイガントレット"
+            "name": "マスオかベタ男か"
         },
         {
             "imageName": "flame-boots",
@@ -1154,7 +1154,7 @@
             "def": 3,
             "price": 6,
             "giftRate": 1,
-            "name": "フレイムブーツ"
+            "name": "ゲイ魔スオ夜行"
         },
         {
             "imageName": "ice-boots",
@@ -1163,7 +1163,7 @@
             "def": 3,
             "price": 6,
             "giftRate": 1,
-            "name": "アイスブーツ"
+            "name": "青マスオの影"
         },
         {
             "imageName": "sacred-tree-gauntlet",
@@ -1172,7 +1172,7 @@
             "def": 3,
             "price": 6,
             "giftRate": 1,
-            "name": "御神木の小手"
+            "name": "１人合唱してみた！"
         },
         {
             "imageName": "crystal-board",
@@ -1181,7 +1181,7 @@
             "def": 3,
             "price": 6,
             "giftRate": 1,
-            "name": "結晶板"
+            "name": "【大事件発生】"
         },
         {
             "imageName": "iron-shield",
@@ -1189,7 +1189,7 @@
             "def": 4,
             "price": 4,
             "giftRate": 8,
-            "name": "アイアンシールド"
+            "name": "面白いことないかなぁ"
         },
         {
             "imageName": "flame-helm",
@@ -1198,7 +1198,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "フレイムヘルム"
+            "name": "ベタ男の為のセプテット"
         },
         {
             "imageName": "ice-helm",
@@ -1207,7 +1207,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "アイスヘルム"
+            "name": "踊るローション飛沫"
         },
         {
             "imageName": "grove-shield",
@@ -1216,7 +1216,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "林の盾"
+            "name": "香るゲイ葉花"
         },
         {
             "imageName": "terra-shoes",
@@ -1225,7 +1225,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "大地のくつ"
+            "name": "外界フォーキタア"
         },
         {
             "imageName": "iron-armor",
@@ -1233,7 +1233,7 @@
             "def": 5,
             "price": 5,
             "giftRate": 8,
-            "name": "アイアンアーマー"
+            "name": "もういいや"
         },
         {
             "imageName": "ogres-gauntlet",
@@ -1243,7 +1243,7 @@
             "def": 5,
             "price": 15,
             "giftRate": 1,
-            "name": "鬼の小手"
+            "name": "ゲイマス36号"
         },
         {
             "imageName": "sky-helm",
@@ -1252,7 +1252,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "スカイヘルム"
+            "name": "不可能には魔酢汚を"
         },
         {
             "imageName": "flame-shield",
@@ -1261,7 +1261,7 @@
             "def": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "フレイムシールド"
+            "name": "マスオの世界の果て"
         },
         {
             "imageName": "ice-shield",
@@ -1270,7 +1270,7 @@
             "def": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "アイスシールド"
+            "name": "ベタイアドライブ"
         },
         {
             "imageName": "resin-knit-robe",
@@ -1279,7 +1279,7 @@
             "def": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "樹脂で編んだ法衣"
+            "name": "マスオの風"
         },
         {
             "imageName": "terra-gauntlet",
@@ -1288,7 +1288,7 @@
             "def": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "大地の小手"
+            "name": "キュアリマス"
         },
         {
             "imageName": "steel-gauntlet",
@@ -1296,7 +1296,7 @@
             "def": 6,
             "price": 6,
             "giftRate": 6,
-            "name": "はがねの小手"
+            "name": "ハイカラマスオ"
         },
         {
             "imageName": "spiritual-socks",
@@ -1305,7 +1305,7 @@
             "ability": "cutCost",
             "price": 20,
             "giftRate": 1,
-            "name": "精霊の足袋"
+            "name": "Complete Darknesuo"
         },
         {
             "imageName": "flame-armor",
@@ -1314,7 +1314,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "フレイムアーマー"
+            "name": "人気のあるマスオ"
         },
         {
             "imageName": "ice-armor",
@@ -1323,7 +1323,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "アイスアーマー"
+            "name": "ガリガリ君の新味"
         },
         {
             "imageName": "forest-shield",
@@ -1332,7 +1332,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "森の盾"
+            "name": "マスオの色は黄色"
         },
         {
             "imageName": "terra-helm",
@@ -1341,7 +1341,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "大地のかぶと"
+            "name": "ゲイ女現る"
         },
         {
             "imageName": "shining-high-heels",
@@ -1350,7 +1350,7 @@
             "def": 6,
             "price": 15,
             "giftRate": 1,
-            "name": "ぴかぴかハイヒール"
+            "name": "アリマスエステラ"
         },
         {
             "imageName": "steel-helm",
@@ -1358,7 +1358,7 @@
             "def": 7,
             "price": 7,
             "giftRate": 6,
-            "name": "はがねのかぶと"
+            "name": "ゲイ海"
         },
         {
             "imageName": "ogres-helm",
@@ -1368,7 +1368,7 @@
             "def": 7,
             "price": 15,
             "giftRate": 1,
-            "name": "鬼のかぶと"
+            "name": "ハー童祭ですよ～"
         },
         {
             "imageName": "sky-shield",
@@ -1377,7 +1377,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "スカイシールド"
+            "name": "マスオズレイン"
         },
         {
             "imageName": "burning-shield",
@@ -1386,7 +1386,7 @@
             "def": 7,
             "price": 10,
             "giftRate": 1,
-            "name": "バーニングシールド"
+            "name": "紅マスオ曲"
         },
         {
             "imageName": "snow-mitten",
@@ -1395,7 +1395,7 @@
             "def": 7,
             "price": 10,
             "giftRate": 1,
-            "name": "スノーミトン"
+            "name": "妖芸談"
         },
         {
             "imageName": "steel-shield",
@@ -1403,7 +1403,7 @@
             "def": 8,
             "price": 8,
             "giftRate": 6,
-            "name": "はがねの盾"
+            "name": "永夜スオの報い"
         },
         {
             "imageName": "beautiful-glasswork",
@@ -1411,7 +1411,7 @@
             "def": 8,
             "price": 20,
             "giftRate": 1,
-            "name": "美しいガラス細工"
+            "name": "Betao Necropolis"
         },
         {
             "imageName": "moonlight-helm",
@@ -1420,7 +1420,7 @@
             "ability": "reflectMiracle",
             "price": 10,
             "giftRate": 1,
-            "name": "月光のかぶと"
+            "name": "マスオ蓮花蝶"
         },
         {
             "imageName": "burning-jacket",
@@ -1429,7 +1429,7 @@
             "def": 8,
             "price": 10,
             "giftRate": 1,
-            "name": "バーニングジャケット"
+            "name": "魔酢汚使いの憂鬱"
         },
         {
             "imageName": "snow-mask",
@@ -1438,7 +1438,7 @@
             "def": 8,
             "price": 10,
             "giftRate": 1,
-            "name": "スノーマスク"
+            "name": "水没したチン毛地獄"
         },
         {
             "imageName": "amber-breastplate",
@@ -1447,7 +1447,7 @@
             "def": 8,
             "price": 10,
             "giftRate": 1,
-            "name": "コハクの胸当て"
+            "name": "カレーうどん"
         },
         {
             "imageName": "terra-armor",
@@ -1456,7 +1456,7 @@
             "def": 8,
             "price": 10,
             "giftRate": 1,
-            "name": "大地のよろい"
+            "name": "ゲぇのマスリア"
         },
         {
             "imageName": "steel-armor",
@@ -1464,7 +1464,7 @@
             "def": 9,
             "price": 9,
             "giftRate": 6,
-            "name": "はがねのよろい"
+            "name": "Bad Masuo!!"
         },
         {
             "imageName": "ogres-armor",
@@ -1474,7 +1474,7 @@
             "def": 9,
             "price": 20,
             "giftRate": 1,
-            "name": "鬼のよろい"
+            "name": "再生数は今どこに"
         },
         {
             "imageName": "spiritual-hood",
@@ -1483,7 +1483,7 @@
             "ability": "cutCost",
             "price": 20,
             "giftRate": 1,
-            "name": "精霊の頭巾"
+            "name": "名曲チャットモン"
         },
         {
             "imageName": "sky-armor",
@@ -1492,7 +1492,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "スカイアーマー"
+            "name": "マスオに命をかけて"
         },
         {
             "imageName": "angel-gauntlet",
@@ -1501,7 +1501,7 @@
             "ability": "blockMiracle",
             "price": 15,
             "giftRate": 1,
-            "name": "エンゼルの小手"
+            "name": "Witch of Love Masuo"
         },
         {
             "imageName": "energy-helm",
@@ -1509,7 +1509,7 @@
             "def": 10,
             "price": 10,
             "giftRate": 4,
-            "name": "エナジーヘルム"
+            "name": "マスオリモート"
         },
         {
             "imageName": "moonlight-shield",
@@ -1518,7 +1518,7 @@
             "ability": "reflectMiracle",
             "price": 10,
             "giftRate": 1,
-            "name": "月光の盾"
+            "name": "マスオの途絶えた橋"
         },
         {
             "imageName": "fever-mask",
@@ -1529,7 +1529,7 @@
             "curse": "fever",
             "price": 10,
             "giftRate": 1,
-            "name": "熱狂仮面"
+            "name": "輝くマスオ族"
         },
         {
             "imageName": "glittering-dress",
@@ -1538,7 +1538,7 @@
             "def": 10,
             "price": 15,
             "giftRate": 1,
-            "name": "きらきらドレス"
+            "name": "明日マスの日、ゲイの昨日"
         },
         {
             "imageName": "energy-armor",
