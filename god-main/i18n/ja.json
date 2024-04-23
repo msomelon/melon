@@ -1474,7 +1474,7 @@
             "def": 9,
             "price": 20,
             "giftRate": 1,
-            "name": "再生数は今どこに"
+            "name": "あの賑やかな再生数は今どこに"
         },
         {
             "imageName": "spiritual-hood",
@@ -1538,7 +1538,7 @@
             "def": 10,
             "price": 15,
             "giftRate": 1,
-            "name": "明日ﾏｽの日ｹﾞｲの昨日"
+            "name": "明日マスの日ゲイの昨日"
         },
         {
             "imageName": "energy-armor",
@@ -1618,7 +1618,7 @@
             "curse": "dream",
             "price": 15,
             "giftRate": 1,
-            "name": "ｹﾞｲﾃｨｯｸドリーマー"
+            "name": "ゲイティックドリーマー"
         },
         {
             "imageName": "angel-armor",
@@ -1635,7 +1635,7 @@
             "def": 30,
             "price": 30,
             "giftRate": 1,
-            "name": "さいきょうむてきまんｼｰﾙﾄﾞ！"
+            "name": "さいきょうむてきまんシールド！"
         },
         {
             "imageName": "mars-ring",
@@ -1645,7 +1645,7 @@
             "ability": "counterAtk",
             "price": 10,
             "giftRate": 1,
-            "name": "T.V.ﾏｽｵはｹﾞｲなのか？"
+            "name": "T.V.マスオはゲイなのか？"
         },
         {
             "imageName": "mercury-ring",
@@ -1655,7 +1655,7 @@
             "curse": "fog",
             "price": 10,
             "giftRate": 1,
-            "name": "ﾌﾞｸﾚｼｭﾃｨのマスオ"
+            "name": "ブクレシュティのマスオ"
         },
         {
             "imageName": "jupiter-ring",
@@ -1694,7 +1694,7 @@
             "curse": "darkcloud",
             "price": 10,
             "giftRate": 1,
-            "name": "東の国の眠らないﾏｽｵ"
+            "name": "東の国の眠らないマスオ"
         },
         {
             "imageName": "neptune-ring",
@@ -1712,7 +1712,7 @@
             "ability": "counterTakeCP",
             "price": 10,
             "giftRate": 1,
-            "name": "六十年目のﾏｽｵ裁判"
+            "name": "六十年目のマスオ裁判"
         },
         {
             "imageName": "rainbow-curtain",
