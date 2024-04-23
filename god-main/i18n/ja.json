@@ -1546,7 +1546,7 @@
             "def": 11,
             "price": 10,
             "giftRate": 4,
-            "name": "エナジーアーマー"
+            "name": "アリマス"
         },
         {
             "imageName": "angel-cap",
@@ -1555,7 +1555,7 @@
             "ability": "blockMiracle",
             "price": 15,
             "giftRate": 1,
-            "name": "エンゼルの帽子"
+            "name": "BadMasuo Scan"
         },
         {
             "imageName": "core-barrier",
@@ -1563,7 +1563,7 @@
             "def": 12,
             "price": 10,
             "giftRate": 2,
-            "name": "コアバリヤー"
+            "name": "芸魔酢汚倶楽部"
         },
         {
             "imageName": "spiritual-sash",
@@ -1572,7 +1572,7 @@
             "ability": "cutCost",
             "price": 20,
             "giftRate": 1,
-            "name": "精霊の帯"
+            "name": "Dr.カイテンキー"
         },
         {
             "imageName": "moonlight-armor",
@@ -1581,7 +1581,7 @@
             "ability": "reflectMiracle",
             "price": 10,
             "giftRate": 1,
-            "name": "月光のよろい"
+            "name": "古きマスオシェン"
         },
         {
             "imageName": "heat-haze-armor",
@@ -1590,7 +1590,7 @@
             "def": 12,
             "price": 15,
             "giftRate": 1,
-            "name": "陽炎のよろい"
+            "name": "宮本旅行"
         },
         {
             "imageName": "core-protector",
@@ -1598,7 +1598,7 @@
             "def": 13,
             "price": 10,
             "giftRate": 2,
-            "name": "コアプロテクター"
+            "name": "プリムローズマスオ"
         },
         {
             "imageName": "angel-shield",
@@ -1607,7 +1607,7 @@
             "ability": "blockMiracle",
             "price": 15,
             "giftRate": 1,
-            "name": "エンゼルシールド"
+            "name": "六年のゲイマスオ"
         },
         {
             "imageName": "dreaming-hat",
