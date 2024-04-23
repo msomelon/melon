@@ -1834,7 +1834,7 @@
             "abilityValue": 10,
             "price": 1,
             "giftRate": 2,
-            "name": "ドキドキ涙"
+            "name": "crymasuo"
         },
         {
             "imageName": "strength-powder",
@@ -1867,7 +1867,7 @@
             "ability": "removeUsedMiracles",
             "price": 10,
             "giftRate": 1,
-            "name": "女神の石けん"
+            "name": "血だらけ石けん"
         },
         {
             "imageName": "string-of-fate",
@@ -1875,7 +1875,7 @@
             "ability": "callPhenomenon",
             "price": 3,
             "giftRate": 1,
-            "name": "マスオの鼻毛"
+            "name": "案件動画"
         },
         {
             "imageName": "sun-amulet",
