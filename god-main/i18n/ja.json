@@ -1995,7 +1995,7 @@
             "curse": "heaven",
             "cost": 15,
             "giftRate": 1,
-            "name": "＜カイテキニデキル＞"
+            "name": "＜ｶｲﾃｷﾆﾃﾞｷﾙ＞"
         },
         {
             "imageName": "fog",
@@ -2799,9 +2799,9 @@
             "moon": "奇跡を司るマスオ"
         },
         "modeNames": {
-            "training": "修行",
-            "hidden": "隠れ乱闘",
-            "duel": "真剣タイマン"
+            "training": "修行ション風呂",
+            "hidden": "ｶｲﾃｷﾆﾃﾞｷﾙ乱闘",
+            "duel": "真剣アンパンパン"
         },
         "modeDescriptions": {
             "training": "コンピュータと対戦",
@@ -2816,7 +2816,7 @@
             "userName": "預言者の名前",
             "setUserName": "ありますかー？",
             "userNameEmpty": "というかお前<br>誰だ？",
-            "underMaintenance": "サーバメンテナンス中なんだよね！？",
+            "underMaintenance": "サーバーメンテナンス中なんだよね！？",
             "versionInvalid": "アプリの更新が<br>必要なんだよね！？",
             "update": "更新ありますかー？"
         },
