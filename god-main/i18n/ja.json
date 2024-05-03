@@ -2804,9 +2804,9 @@
             "duel": "真剣アンパンパン"
         },
         "modeDescriptions": {
-            "training": "コンピュータと対戦",
-            "hidden": "友達と対戦",
-            "duel": "2人個人戦"
+            "training": "AIマスオと対戦",
+            "hidden": "幼馴染と対戦",
+            "duel": "マスオボイパ対決"
         },
         "home": {
             "design": "設計",
@@ -2841,7 +2841,7 @@
             "licenses": "ライセンス"
         },
         "menu": {
-            "userCount": "預言者 {{count}} 人",
+            "userCount": "マスオ {{count}} 人",
             "roomPassword": "部屋の合言葉",
             "setRoomPassword": "せーの、はい！"
         },
