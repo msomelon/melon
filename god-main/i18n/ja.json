@@ -615,7 +615,7 @@
             "curse": "flash",
             "price": 15,
             "giftRate": 1,
-            "name": "光ALEDライト"
+            "name": "光るALEDライト"
         },
         {
             "imageName": "fire-whip",
@@ -2980,7 +2980,7 @@
             "poor": "-100円",
             "bounce": "投資",
             "reflect": "飛々～！",
-            "block": "4っていう",
+            "block": "4うっていう",
             "safe": "ゲイですよ～",
             "damage": "ダメージ",
             "hp": "HP{{hp}}",
