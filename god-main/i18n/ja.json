@@ -2224,7 +2224,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 6,
-            "name": "炎のささやき"
+            "name": "プチ炎上"
         },
         {
             "imageName": "fire-tweet",
@@ -2234,7 +2234,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 5,
-            "name": "炎のつぶやき"
+            "name": "メガ炎上"
         },
         {
             "imageName": "fire-buzz",
@@ -2244,7 +2244,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 4,
-            "name": "炎のしゃべり"
+            "name": "ギガ炎上"
         },
         {
             "imageName": "fire-roar",
@@ -2254,7 +2254,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 3,
-            "name": "炎のうなり"
+            "name": "ペタ炎上"
         },
         {
             "imageName": "fire-shout",
@@ -2264,7 +2264,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 2,
-            "name": "炎の叫び"
+            "name": "大炎上"
         },
         {
             "imageName": "drizzle",
@@ -2276,7 +2276,7 @@
             "curse": "fog",
             "guardian": "mercury",
             "guardianAttackRate": 6,
-            "name": "霧雨"
+            "name": "霧雨魔酢汚"
         },
         {
             "imageName": "misty-breath",
@@ -2287,7 +2287,7 @@
             "curse": "fog",
             "guardian": "mercury",
             "guardianAttackRate": 5,
-            "name": "かすむ息"
+            "name": "マスオの息"
         },
         {
             "imageName": "splash",
@@ -2297,7 +2297,7 @@
             "hitRate": 50,
             "guardian": "mercury",
             "guardianAttackRate": 4,
-            "name": "しぶき"
+            "name": "オリジナルTシャツありま～す！！"
         },
         {
             "imageName": "bubbles",
@@ -2306,7 +2306,7 @@
             "atk": 3,
             "guardian": "mercury",
             "guardianAttackRate": 3,
-            "name": "泡"
+            "name": "海ありま～す！！"
         },
         {
             "imageName": "hail",
@@ -2316,7 +2316,7 @@
             "hitRate": 50,
             "guardian": "mercury",
             "guardianAttackRate": 2,
-            "name": "あられ"
+            "name": "雪国妙高高原"
         },
         {
             "imageName": "branch",
@@ -2325,7 +2325,7 @@
             "atk": 1,
             "guardian": "jupiter",
             "guardianAttackRate": 6,
-            "name": "枝"
+            "name": "枝豆の枝"
         },
         {
             "imageName": "root",
@@ -2334,7 +2334,7 @@
             "atk": 2,
             "guardian": "jupiter",
             "guardianAttackRate": 5,
-            "name": "根っこ"
+            "name": "枝豆の根っこ"
         },
         {
             "imageName": "tentacles",
@@ -2345,7 +2345,7 @@
             "ability": "absorbHP",
             "guardian": "jupiter",
             "guardianAttackRate": 4,
-            "name": "触手"
+            "name": "枯れた桜"
         },
         {
             "imageName": "colored-leaves",
@@ -2355,7 +2355,7 @@
             "curse": "dream",
             "guardian": "jupiter",
             "guardianAttackRate": 3,
-            "name": "紅葉"
+            "name": "未来の夢を"
         },
         {
             "imageName": "dance-of-fallen-leaves",
@@ -2367,7 +2367,7 @@
             "curse": "dream",
             "guardian": "jupiter",
             "guardianAttackRate": 2,
-            "name": "落ち葉の舞"
+            "name": "夢を語る僕にも"
         },
         {
             "imageName": "pebble",
@@ -2376,7 +2376,7 @@
             "atk": 2,
             "guardian": "saturn",
             "guardianAttackRate": 6,
-            "name": "小石"
+            "name": "小石～～い！！"
         },
         {
             "imageName": "stone",
@@ -2385,7 +2385,7 @@
             "atk": 4,
             "guardian": "saturn",
             "guardianAttackRate": 5,
-            "name": "石"
+            "name": "石～～い！！"
         },
         {
             "imageName": "boulder",
@@ -2394,7 +2394,7 @@
             "atk": 6,
             "guardian": "saturn",
             "guardianAttackRate": 4,
-            "name": "大きな石"
+            "name": "大きな石～～い！！"
         },
         {
             "imageName": "body-press",
@@ -2403,7 +2403,7 @@
             "atk": 9,
             "guardian": "saturn",
             "guardianAttackRate": 3,
-            "name": "体当たり"
+            "name": "ヨガマット"
         },
         {
             "imageName": "diamond-axe",
@@ -2413,7 +2413,7 @@
             "ability": "categoryWeapons",
             "guardian": "saturn",
             "guardianAttackRate": 2,
-            "name": "ダイヤモンドアクス"
+            "name": "アルミホイル玉"
         },
         {
             "imageName": "twinkle",
@@ -2422,7 +2422,7 @@
             "atk": 2,
             "guardian": "uranus",
             "guardianAttackRate": 6,
-            "name": "点滅"
+            "name": "緊急事態"
         },
         {
             "imageName": "electric-shock",
@@ -2432,7 +2432,7 @@
             "hitRate": 25,
             "guardian": "uranus",
             "guardianAttackRate": 5,
-            "name": "電撃"
+            "name": "許さねぇ"
         },
         {
             "imageName": "halo",
@@ -2442,7 +2442,7 @@
             "curse": "flash",
             "guardian": "uranus",
             "guardianAttackRate": 4,
-            "name": "後光"
+            "name": "限界です。"
         },
         {
             "imageName": "blessing",
@@ -2452,7 +2452,7 @@
             "ability": "absorbHP",
             "guardian": "uranus",
             "guardianAttackRate": 3,
-            "name": "祝福"
+            "name": "ゼウスでしょコレ？！"
         },
         {
             "imageName": "laser-beam",
@@ -2462,7 +2462,7 @@
             "hitRate": 75,
             "guardian": "uranus",
             "guardianAttackRate": 2,
-            "name": "レーザービーム"
+            "name": "友達のYouTuberが大変なことになりました"
         },
         {
             "imageName": "thinking",
@@ -2472,7 +2472,7 @@
             "hitRate": 25,
             "guardian": "pluto",
             "guardianAttackRate": 6,
-            "name": "思考"
+            "name": "セイキンダンス"
         },
         {
             "imageName": "wink",
@@ -2481,7 +2481,7 @@
             "atk": 2,
             "guardian": "pluto",
             "guardianAttackRate": 5,
-            "name": "まばたき"
+            "name": "スタンプ連打"
         },
         {
             "imageName": "ominous-premonition",
@@ -2491,7 +2491,7 @@
             "curse": "darkcloud",
             "guardian": "pluto",
             "guardianAttackRate": 4,
-            "name": "不吉な予感"
+            "name": "クレーム"
         },
         {
             "imageName": "cough",
@@ -2500,7 +2500,7 @@
             "atk": 4,
             "guardian": "pluto",
             "guardianAttackRate": 3,
-            "name": "せき払い"
+            "name": "画鋲1000個入りスライム"
         },
         {
             "imageName": "hand-raising",
@@ -2509,7 +2509,7 @@
             "atk": 8,
             "guardian": "pluto",
             "guardianAttackRate": 2,
-            "name": "挙手"
+            "name": "オールスターダスト計画"
         },
         {
             "imageName": "sound-of-ripples",
@@ -2517,7 +2517,7 @@
             "ability": "removeAllCurses",
             "guardian": "neptune",
             "guardianAttackRate": 6,
-            "name": "さざ波の音"
+            "name": "SHARE MY HEART"
         },
         {
             "imageName": "seafood-soup",
@@ -2526,7 +2526,7 @@
             "abilityValue": 5,
             "guardian": "neptune",
             "guardianAttackRate": 5,
-            "name": "潮汁"
+            "name": "白米3合"
         },
         {
             "imageName": "beach-aroma",
@@ -2535,7 +2535,7 @@
             "abilityValue": 5,
             "guardian": "neptune",
             "guardianAttackRate": 4,
-            "name": "磯の香り"
+            "name": "ふわふわパンケーキ"
         },
         {
             "imageName": "healthy-seafood-soup",
@@ -2544,7 +2544,7 @@
             "abilityValue": 10,
             "guardian": "neptune",
             "guardianAttackRate": 3,
-            "name": "あっさりした潮汁"
+            "name": "うまい棒"
         },
         {
             "imageName": "fresh-beach-aroma",
@@ -2553,7 +2553,7 @@
             "abilityValue": 10,
             "guardian": "neptune",
             "guardianAttackRate": 2,
-            "name": "さわやかな磯の香り"
+            "name": "寿司100貫"
         },
         {
             "imageName": "coin-scattering",
@@ -2562,7 +2562,7 @@
             "abilityValue": 1,
             "guardian": "venus",
             "guardianAttackRate": 6,
-            "name": "小銭ばらまき"
+            "name": "小銭数えてみた！"
         },
         {
             "imageName": "bribe",
@@ -2571,7 +2571,7 @@
             "abilityValue": 5,
             "guardian": "venus",
             "guardianAttackRate": 5,
-            "name": "わいろ"
+            "name": "プレゼント"
         },
         {
             "imageName": "fine",
@@ -2580,7 +2580,7 @@
             "abilityValue": 3,
             "guardian": "venus",
             "guardianAttackRate": 4,
-            "name": "罰金"
+            "name": "お金が消える貯金箱"
         },
         {
             "imageName": "little-something",
@@ -2589,7 +2589,7 @@
             "abilityValue": 8,
             "guardian": "venus",
             "guardianAttackRate": 3,
-            "name": "つまらない物"
+            "name": "収益化"
         },
         {
             "imageName": "luxury-accessory",
@@ -2598,14 +2598,14 @@
             "abilityValue": 20,
             "guardian": "venus",
             "guardianAttackRate": 2,
-            "name": "豪華なアクセサリー"
+            "name": "ハーッドゲィリア達のお宝市場"
         },
         {
             "imageName": "drop",
             "category": "guardians",
             "ability": "addItem",
             "guardian": "earth",
-            "name": "もらす"
+            "name": "高速パンパン"
         },
         {
             "imageName": "full-moon-blade",
@@ -2613,7 +2613,7 @@
             "atk": 10,
             "ability": "categoryWeapons",
             "guardian": "moon",
-            "name": "満月刀"
+            "name": "マスオ刀"
         },
         {
             "imageName": "afterglow",
@@ -2914,7 +2914,7 @@
             "exchange": "両替しまーす！<br>(HP1=MP1=¥1)",
             "sell": "神器を一個売りまーす！",
             "buy": "神器を一個買いまーす！",
-            "addItem": "神器を一個もらしまーす！",
+            "addItem": "高速パンパンで<br>神器を錬成する",
             "setElement": "{{element}}に染めたんだよね！？",
             "doubleAtk": "攻撃力をバイにする",
             "counterAtk": "攻{ダメージ}",
