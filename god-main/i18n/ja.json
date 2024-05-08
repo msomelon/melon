@@ -2804,9 +2804,9 @@
             "duel": "真剣アンパンパン"
         },
         "modeDescriptions": {
-            "training": "AIマスオと対戦",
+            "training": "BOTと対戦",
             "hidden": "幼馴染と対戦",
-            "duel": "マスオボイパ対決"
+            "duel": "ボイパ対決"
         },
         "home": {
             "design": "設計",
