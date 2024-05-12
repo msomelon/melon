@@ -2799,14 +2799,14 @@
             "moon": "奇跡を司るマスオ"
         },
         "modeNames": {
-            "training": "BOTだね",
-            "hidden": "だぱーてっでらっぱんて乱闘",
-            "duel": "真剣アンパンパン"
+            "training": "BOT練習",
+            "hidden": "マスオ乱闘",
+            "duel": "真剣TV"
         },
         "modeDescriptions": {
-            "training": "BOTと対戦",
-            "hidden": "幼馴染と対戦",
-            "duel": "ボイパ対決"
+            "training": "BOTと",
+            "hidden": "幼馴染と",
+            "duel": "知らない人と"
         },
         "home": {
             "design": "設計",
@@ -2876,9 +2876,9 @@
             "solo": "個人戦",
             "teams": "チーム戦",
             "shuffleTeams": "チームをシャッフル",
-            "tiebreaker": "終末オTV",
+            "tiebreaker": "終末オ",
             "tiebreakerOff": "なし",
-            "addGame": "戦いますかー？"
+            "addGame": "戦いまーす！"
         },
         "game": {
             "usedMiracles": "起こした奇跡",
@@ -2933,10 +2933,10 @@
             "blockMiracle": "奇跡を止めまーす！",
             "reflectAnything": "何でもはね返しまーす！",
             "boostHP": "+HP{{hp}}",
-            "orDealDamage": "または {{damage}}ダメージ",
+            "orDealDamage": "または{{damage}}ダメージ",
             "dealDamage": "{{damage}}ダメージ",
-            "revive": "マスオが不死身なのは<br>ニコニコでは周知の事実",
-            "setHPOfEverybody": "全マスオのね！？HPがね！？{{hp}}になっちゃったんだよね！？",
+            "revive": "マスオが不死身なのは<br>周知の事実",
+            "setHPOfEverybody": "全マスオのね！？HPがね！？{br}{{hp}}になっちゃったんだよね！？",
             "absorbHP": "HPをいただきまーすお",
             "dealSameDamage": "使用マスオに同じダメージ",
             "boostMP": "+MP{{mp}}",
@@ -2944,25 +2944,25 @@
             "consumeAllMP": "【悲報】MPが･･･",
             "cutCost": "奇跡が起きた",
             "boostCP": "+¥{{cp}}",
-            "boostCPToEnemy": "敵にあげまーす！",
-            "boostCPOfEverybody": "全マスオにあげまーす！",
-            "collectCPOfEverybody": "全マスオの金が<br>誰かに集まりまーす！",
+            "boostCPToEnemy": "敵にあげるよ！！",
+            "boostCPOfEverybody": "全員にあげるよ！！",
+            "collectCPOfEverybody": "全員のお金がね！？",
             "takeCP": "¥{{cp}} が･･･",
             "counterTakeCP": "¥{ダメージ} が･･･",
             "boostSomething": "+HP{{value}} +MP{{value}}<br>僕は +¥{{value}}",
             "addCurseOnDamage": "ダメージで僕は{{curse}}！",
-            "selfCurse": "使用マスオに{{curse}}！",
-            "selfCurseAndRedraw": "使用マスオに{{curse}}と割れフォン",
-            "setCurseOfEverybody": "全マスオに{{curse}}",
+            "selfCurse": "使用した人に{{curse}}",
+            "selfCurseAndRedraw": "使用した人に{br}{{curse}}とコーチンコーチン",
+            "setCurseOfEverybody": "全員に{{curse}}",
             "removeMildCurses": "風邪 炎上 霧 閃光<br>の災いが･･･",
             "removeAllCurses": "全部の災い<br>消えちゃったんだよね！？",
-            "setGuardian": "マスオが･･･",
-            "setGuardianOfEverybody": "全マスオにマスオが･･･",
-            "confuseEverybody": "全マスオが三回ずつ<br>無駄に行動する",
+            "setGuardian": "神マスオを呼ぶ",
+            "setGuardianOfEverybody": "全員に神マスオが･･･",
+            "confuseEverybody": "全員が三回ずつ<br>無駄行動",
             "removeItems": "iPhoneを<br>三個割る",
             "removeUsedMiracles": "【悲報】起こした奇跡が･･･",
             "removeSomething": "神器か奇跡が･･･",
-            "shuffleItemsOfEverybody": "全マスオの神器が<br>ごちゃごちゃ",
+            "shuffleItemsOfEverybody": "全員の神器が<br>ごちゃごちゃ",
             "callPhenomenon": "【悲報】超常現象が･･･"
         },
         "alerts": {
@@ -2970,7 +2970,7 @@
             "discard": "捨てる神器が･･･",
             "sacrifice": "ささげる神器が･･･",
             "sell": "売る神器が･･･",
-            "miracles": "MPありませーん！"
+            "miracles": "MPが･･･"
         },
         "effects": {
             "hit": "ちょっと待って",
@@ -2988,7 +2988,7 @@
             "cp": "¥{{cp}}",
             "upgradeHeaven": "iPhoneが･･･",
             "confusion": "無駄行動",
-            "redraw": "割れフォン",
+            "redraw": "コーチンコーチン",
             "die": "死亡"
         }
     }
