@@ -16272,7 +16272,7 @@ q.e=b
 s=q.d
 r=""+b
 r=s===0?r:r+" /"+s
-q.c.bS(0,'G.F.<span style="color: #dd7799">'+r+"</span>")
+q.c.bS(0,'M.S.<span style="color: #dd7799">'+r+"</span>")
 if(q.gbI()){s=q.a.style
 s.backgroundColor="#111111"}}}
 A.ie.prototype={
@@ -16386,7 +16386,7 @@ f=new A.cI(A.q([],p))
 o.a(null)
 f.c6("br",null,null,e)
 f.c6("span",o.a(A.q(["style"],n)),null,e)
-J.pL(g,'G.F.<span style="color: #dd7799">'+k+"</span>",f)
+J.pL(g,'M.S.<span style="color: #dd7799">'+k+"</span>",f)
 f=g.style
 f.fontSize="35px"
 f=g.style
