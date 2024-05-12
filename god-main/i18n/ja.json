@@ -2629,14 +2629,14 @@
             "guardian": "mercury",
             "ability": "setCurseOfEverybody",
             "curse": "fog",
-            "name": "濃ション霧風呂に～"
+            "name": "濃霧の、お風呂ですよ！"
         },
         {
             "imageName": "mushroom-outbreak",
             "category": "phenomena",
             "guardian": "jupiter",
             "ability": "confuseEverybody",
-            "name": "ちんちんメリーゴーランド！"
+            "name": "メリーゴーランド！"
         },
         {
             "imageName": "tornado",
@@ -2644,7 +2644,7 @@
             "guardian": "saturn",
             "ability": "setHPOfEverybody",
             "abilityValue": 1,
-            "name": "ゲイゲイマスオ"
+            "name": "マスオも壊れた。"
         },
         {
             "imageName": "gigantic-tub",
