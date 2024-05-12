@@ -2660,7 +2660,7 @@
             "element": "darkness",
             "atk": 30,
             "hitRate": 75,
-            "name": "バイマスオ"
+            "name": "バイバイマスオ"
         },
         {
             "imageName": "warm-current",
@@ -2668,21 +2668,21 @@
             "guardian": "neptune",
             "ability": "boostHP",
             "abilityValue": 50,
-            "name": "ローションですよ"
+            "name": "バススライムゆず"
         },
         {
             "imageName": "gold-mountain",
             "category": "phenomena",
             "guardian": "venus",
             "ability": "collectCPOfEverybody",
-            "name": "僕はヒカ金！"
+            "name": "取り柄さん"
         },
         {
             "imageName": "magnetic-storm",
             "category": "phenomena",
             "guardian": "earth",
             "ability": "shuffleItemsOfEverybody",
-            "name": "間違えた～！！"
+            "name": "難しい！"
         },
         {
             "imageName": "solar-eclipse",
@@ -2921,7 +2921,7 @@
             "counter2xAtk": "攻{ダメージ×2}",
             "attackTwice": "二回やらかす",
             "attackEveryEnemy": "すべてのマスオに<br>攻撃する",
-            "attackSomebody": "誰かに攻撃する",
+            "attackSomebody": "誰かが･･･",
             "attractDanger": "yeahから<br>99ダメージ",
             "attackDyingly": "死亡のとき75%攻30",
             "filterAtkElement": "【悲報】<br>攻撃の属性が･･･｡",
