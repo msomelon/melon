@@ -10285,7 +10285,7 @@ p=p.a
 o=p.style
 o.backgroundColor="#000000"
 o=A.C($.c.i().aB("upgradeHeaven"),150,10,null,256)
-o.C(80,"#ffeeee",!0)
+o.C(80,"#ffffff",!0)
 o.B()
 p.appendChild(o.a).toString
 i.appendChild(p).toString
