@@ -10283,7 +10283,7 @@ case 3:p=A.F(146,2,2,276)
 p.sv(0,25)
 p=p.a
 o=p.style
-o.backgroundColor="#ff0000"
+o.backgroundColor="#000000"
 o=A.C($.c.i().aB("upgradeHeaven"),150,10,null,256)
 o.C(80,"#ffeeee",!0)
 o.B()
@@ -10529,7 +10529,7 @@ o=A.F(200,null,null,300)
 o.sv(0,25)
 n=o.a
 m=n.style
-m.backgroundColor="#ff0000"
+m.backgroundColor="#000000"
 m=A.C($.c.i().aB("die"),200,10,null,280)
 m.C(100,"#ffeeee",!0)
 m.B()
