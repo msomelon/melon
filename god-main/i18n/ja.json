@@ -2870,7 +2870,7 @@
             "userCount": "マスオ {{count}} 人",
             "users": "マスオ",
             "full": "満員スオ",
-            "giveUp": "【悲報】戦いが･･･"
+            "giveUp": "だったらやめちまえ！！！"
         },
         "entry": {
             "solo": "個人戦",
@@ -2904,9 +2904,9 @@
             "opening": "マスオたちの戦いが<br>今始まりまーす！",
             "tiebreaker": "- 終末オTV -",
             "tiebreakerBody": "悪魔酢汚がやって来る",
-            "endingWin": "おめでたい！",
+            "endingWin": "勝っちゃったんだよね！？",
             "endingDraw": "消えちゃったんだよね！？",
-            "removeGame": "終わりますかー？"
+            "removeGame": "終わりまーす！"
         },
         "abilities": {
             "discard": "神器を捨てまーす！<br>(新しい神器は授からない)",
@@ -2989,7 +2989,7 @@
             "upgradeHeaven": "iPhoneが･･･",
             "confusion": "無駄行動",
             "redraw": "コーチンコーチン",
-            "die": "死亡"
+            "die": "マスオ死亡"
         }
     }
 }
