@@ -2952,7 +2952,7 @@
             "boostSomething": "+HP{{value}} +MP{{value}}<br>僕は +¥{{value}}",
             "addCurseOnDamage": "ダメージで僕は{{curse}}！",
             "selfCurse": "使用した人に{{curse}}",
-            "selfCurseAndRedraw": "使用した人に{br}{{curse}}とコーチンコーチン",
+            "selfCurseAndRedraw": "使用した人に{{curse}}とコーチン",
             "setCurseOfEverybody": "全員に{{curse}}",
             "removeMildCurses": "風邪 炎上 霧 閃光<br>の災いが･･･",
             "removeAllCurses": "全部の災い<br>消えちゃったんだよね！？",
