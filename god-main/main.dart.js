@@ -10533,7 +10533,7 @@ m.backgroundColor="#000000"
 m=A.C($.c.i().aB("die"),200,10,null,280)
 m.C(100,"#ffeeee",!0)
 m.B()
-m.aq("#4f4f4f")
+m.aq("#ff0000")
 n.appendChild(m.a).toString
 m=n.style
 m.top="100px"
