@@ -2821,7 +2821,7 @@
             "update": "更新ありますかー？"
         },
         "about": {
-            "about": "ver.1.0.0",
+            "about": "ver.1.1.0",
             "version": "バージョン {{version}}",
             "soundMaterials": "効果音素材",
             "soundMaterialsCredit": "ザ・マッチメイカァズ",
