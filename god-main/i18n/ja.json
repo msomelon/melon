@@ -2732,7 +2732,7 @@
             "earthNote": "地マスオは取引、武器、防具、雑貨を使う。",
             "moonNote": "月マスオは奇跡を使う。",
             "guardianAttackNote": "分身と幼馴染は敵のターンのあとに25%の確率で行動する。",
-            "guardiansNote": "分身と幼馴染はダメージを受けると10%の確率で去る。",
+            "guardiansNote": "分身と幼馴染はダメージを受けると10%の確率で亡くなる。",
             "giftRate": "授かり率",
             "appearanceRate": "出現率",
             "guardianAttackRate": "行動率"
