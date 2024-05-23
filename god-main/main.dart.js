@@ -12667,14 +12667,14 @@ p=r.style
 p.backgroundColor="#00aced"
 q.N(2,j)
 r.appendChild(A.ml("twitter","png",40,5,5,40).a).toString
-p=A.C("@guuji",50,50,l,150)
+p=A.C("@abcbacdedc",50,50,l,150)
 o=p.a
 n=o.style
 n.textAlign=k
 p.C(36,j,!0)
 p.B()
 r.appendChild(o).toString
-q.cV("https://twitter.com/guuji")
+q.cV("https://twitter.com/abcbacdedc")
 i.appendChild(r).toString
 s=s.createElement("div")
 s.toString

@@ -2810,9 +2810,9 @@
         },
         "home": {
             "design": "設計",
-            "designCredit": "グウジ",
+            "designCredit": "メロン",
             "art": "美術",
-            "artCredit": "あみ",
+            "artCredit": "マスオ",
             "userName": "預言者の名前",
             "setUserName": "ありますかー？",
             "userNameEmpty": "というかお前<br>誰だ？",
@@ -2821,7 +2821,7 @@
             "update": "更新ありますかー？"
         },
         "about": {
-            "about": "ver.1.1.0",
+            "about": "ver.2.0.0",
             "version": "バージョン {{version}}",
             "soundMaterials": "効果音素材",
             "soundMaterialsCredit": "ザ・マッチメイカァズ",
