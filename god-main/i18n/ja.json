@@ -1645,7 +1645,7 @@
             "ability": "counterAtk",
             "price": 10,
             "giftRate": 1,
-            "name": "T.V.マスオはゲイなのか？"
+            "name": "うーん..."
         },
         {
             "imageName": "mercury-ring",
@@ -1655,7 +1655,7 @@
             "curse": "fog",
             "price": 10,
             "giftRate": 1,
-            "name": "ブクレシュティのマスオ"
+            "name": "そうだ！"
         },
         {
             "imageName": "jupiter-ring",
@@ -1665,7 +1665,7 @@
             "curse": "dream",
             "price": 10,
             "giftRate": 1,
-            "name": "月見マスオ"
+            "name": "うまーい！"
         },
         {
             "imageName": "saturn-ring",
@@ -1684,7 +1684,7 @@
             "curse": "flash",
             "price": 10,
             "giftRate": 1,
-            "name": "萃マスオ"
+            "name": "乾杯！"
         },
         {
             "imageName": "pluto-ring",
@@ -1694,7 +1694,7 @@
             "curse": "darkcloud",
             "price": 10,
             "giftRate": 1,
-            "name": "東の国の眠らないマスオ"
+            "name": "ぬぁー"
         },
         {
             "imageName": "neptune-ring",
