@@ -1703,7 +1703,7 @@
             "ability": "counterBoost2xMP",
             "price": 10,
             "giftRate": 1,
-            "name": "マスオ跋扈"
+            "name": "跋扈"
         },
         {
             "imageName": "venus-ring",
@@ -1712,7 +1712,7 @@
             "ability": "counterTakeCP",
             "price": 10,
             "giftRate": 1,
-            "name": "六十年目のマスオ裁判"
+            "name": "初売り"
         },
         {
             "imageName": "rainbow-curtain",
