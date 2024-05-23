@@ -1645,7 +1645,7 @@
             "ability": "counterAtk",
             "price": 10,
             "giftRate": 1,
-            "name": "うーん..."
+            "name": "マスオ炎上"
         },
         {
             "imageName": "mercury-ring",
@@ -1655,7 +1655,7 @@
             "curse": "fog",
             "price": 10,
             "giftRate": 1,
-            "name": "そうだ！"
+            "name": "マスオ凍結"
         },
         {
             "imageName": "jupiter-ring",
@@ -1665,7 +1665,7 @@
             "curse": "dream",
             "price": 10,
             "giftRate": 1,
-            "name": "うまーい！"
+            "name": "マスオ料理"
         },
         {
             "imageName": "saturn-ring",
@@ -1674,7 +1674,7 @@
             "ability": "counter2xAtk",
             "price": 10,
             "giftRate": 1,
-            "name": "セ杖"
+            "name": "マスオセ杖"
         },
         {
             "imageName": "uranus-ring",
@@ -1684,7 +1684,7 @@
             "curse": "flash",
             "price": 10,
             "giftRate": 1,
-            "name": "乾杯！"
+            "name": "マスオ酒豪"
         },
         {
             "imageName": "pluto-ring",
@@ -1694,7 +1694,7 @@
             "curse": "darkcloud",
             "price": 10,
             "giftRate": 1,
-            "name": "ぬぁー"
+            "name": "マスオ歯黒"
         },
         {
             "imageName": "neptune-ring",
@@ -1703,7 +1703,7 @@
             "ability": "counterBoost2xMP",
             "price": 10,
             "giftRate": 1,
-            "name": "跋扈"
+            "name": "マスオ跋扈"
         },
         {
             "imageName": "venus-ring",
@@ -1712,7 +1712,7 @@
             "ability": "counterTakeCP",
             "price": 10,
             "giftRate": 1,
-            "name": "初売りで"
+            "name": "マスオ買収"
         },
         {
             "imageName": "rainbow-curtain",
