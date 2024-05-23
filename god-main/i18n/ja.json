@@ -2206,7 +2206,7 @@
             "category": "devils",
             "ability": "removeSomething",
             "appearanceRate": 5,
-            "name": "イタズラマン"
+            "name": "ムンクさん"
         },
         {
             "imageName": "charity-fairy",
@@ -2214,7 +2214,7 @@
             "ability": "boostSomething",
             "abilityValue": 10,
             "appearanceRate": 5,
-            "name": "めぐみの妖精"
+            "name": "おめでたい！"
         },
         {
             "imageName": "fire-whisper",
