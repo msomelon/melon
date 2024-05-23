@@ -1395,7 +1395,7 @@
             "def": 7,
             "price": 10,
             "giftRate": 1,
-            "name": "妖芸談"
+            "name": "お風呂"
         },
         {
             "imageName": "steel-shield",
@@ -2725,7 +2725,7 @@
             "fogNote": "霧の中から敵に神器を使う場合、使用先は敵の中から無作為に選ばれる。",
             "discardNote": "武器、不死マスオ、4は捨てられない。",
             "sacrificeNote": "終末オTVの時以降、捨てるはささげるに置き換わる。",
-            "bounceNote": "攻撃を弾くと、その攻撃は誰かに向かう。",
+            "bounceNote": "攻撃を弾くと、その攻撃はユニークがすぎる方に向かう。",
             "miraclesNote": "奇跡を使うとMPを消費するが何度でも使える。",
             "usedMiraclesNote": "一度起こした奇跡は、売る、買う、掃除機の対象にならない。",
             "devilsNote": "終末オTVの時以降、神器を授かるたびに25%の確率で悪魔酢汚が現れる。",
@@ -2921,7 +2921,7 @@
             "counter2xAtk": "攻{ダメージ×2}",
             "attackTwice": "二回やらかす",
             "attackEveryEnemy": "すべてのマスオに<br>攻撃する",
-            "attackSomebody": "誰かが･･･",
+            "attackSomebody": "ユニークがすぎる方が･･･",
             "attractDanger": "yeahから<br>99ダメージ",
             "attackDyingly": "死亡のとき75%攻30",
             "filterAtkElement": "【悲報】<br>攻撃の属性が･･･｡",
