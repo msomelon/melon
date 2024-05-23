@@ -1118,7 +1118,7 @@
             "def": 2,
             "price": 4,
             "giftRate": 1,
-            "name": "iPhone7紛失"
+            "name": "iPhone7"
         },
         {
             "imageName": "iron-gauntlet",
@@ -1225,7 +1225,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "iPhoneRedの呪い"
+            "name": "iPhone8Red"
         },
         {
             "imageName": "iron-armor",
@@ -1288,7 +1288,7 @@
             "def": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "キュアリマス"
+            "name": "iPhone11Pro"
         },
         {
             "imageName": "steel-gauntlet",
@@ -1341,7 +1341,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "ゲイ女現る"
+            "name": "iPhone13Pro"
         },
         {
             "imageName": "shining-high-heels",
@@ -1456,7 +1456,7 @@
             "def": 8,
             "price": 10,
             "giftRate": 1,
-            "name": "ゲぇのマスリア"
+            "name": "iPhone15Pro"
         },
         {
             "imageName": "steel-armor",
