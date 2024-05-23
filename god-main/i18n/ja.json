@@ -1074,7 +1074,7 @@
             "def": 1,
             "price": 2,
             "giftRate": 1,
-            "name": "マジでやらかした"
+            "name": "iPhone6"
         },
         {
             "imageName": "leather-clothes",
@@ -1118,7 +1118,7 @@
             "def": 2,
             "price": 4,
             "giftRate": 1,
-            "name": "黒いゲイマスオ"
+            "name": "iPhone7紛失"
         },
         {
             "imageName": "iron-gauntlet",
@@ -1181,7 +1181,7 @@
             "def": 3,
             "price": 6,
             "giftRate": 1,
-            "name": "【大事件発生】"
+            "name": "iPhone8"
         },
         {
             "imageName": "iron-shield",
@@ -1225,7 +1225,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "外界フォーキタア"
+            "name": "iPhoneRedの呪い"
         },
         {
             "imageName": "iron-armor",
@@ -1618,7 +1618,7 @@
             "curse": "dream",
             "price": 15,
             "giftRate": 1,
-            "name": "ゲイティックドリーマー"
+            "name": "抱き枕スタイル"
         },
         {
             "imageName": "angel-armor",
