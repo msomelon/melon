@@ -2452,7 +2452,7 @@
             "ability": "absorbHP",
             "guardian": "uranus",
             "guardianAttackRate": 3,
-            "name": "ゼウスでしょコレ？！"
+            "name": "ゼウスでしょ？！"
         },
         {
             "imageName": "laser-beam",
@@ -2500,7 +2500,7 @@
             "atk": 4,
             "guardian": "pluto",
             "guardianAttackRate": 3,
-            "name": "画鋲1000個入りスライム"
+            "name": "画鋲入りスライム"
         },
         {
             "imageName": "hand-raising",
