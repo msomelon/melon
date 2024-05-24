@@ -2697,14 +2697,14 @@
             "title": "マスオフィールド"
         },
         "langNames": {
-            "en": "English",
-            "fr": "Français",
+            "en": "English(準備中)",
+            "fr": "Français(準備中)",
             "ja": "日本語",
-            "ko": "한국어",
-            "pt": "Português",
-            "ru": "Русский",
-            "zh-hans": "简体中文",
-            "zh-hant": "繁體中文"
+            "ko": "한국어(準備中)",
+            "pt": "Português(準備中)",
+            "ru": "Русский(準備中)",
+            "zh-hans": "简体中文(準備中)",
+            "zh-hant": "繁體中文(準備中)"
         },
         "reference": {
             "reference": "教典",
