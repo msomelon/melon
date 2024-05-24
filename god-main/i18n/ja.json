@@ -2799,14 +2799,14 @@
             "moon": "奇跡を司るマスオ"
         },
         "modeNames": {
-            "training": "BOTだね",
+            "training": "今のはBOTだね",
             "hidden": "闘争魔酢汚",
             "duel": "タイマンアンパンパン"
         },
         "modeDescriptions": {
-            "training": "練習",
-            "hidden": "幼馴染",
-            "duel": "対戦"
+            "training": "BOTと対戦",
+            "hidden": "幼馴染と対戦",
+            "duel": "レートを賭けて対戦"
         },
         "home": {
             "design": "設計",
@@ -2822,7 +2822,7 @@
         },
         "about": {
             "about": "クレジット",
-            "version": "バージョン 2.1.4",
+            "version": "バージョン 2.2.0",
             "soundMaterials": "ゲイ",
             "soundMaterialsCredit": "マスオ",
             "ptTranslation": "幼馴染",
