@@ -12765,7 +12765,7 @@ l=A.C($.c.i().a7("privacyPolicy"),40,10,null,380)
 l.T(25,"#ffffee")
 l.B()
 p.appendChild(l.a).toString
-m.cV("/privacy")
+m.cV("/melon/privacy")
 o.appendChild(p).toString
 q.aQ(n)
 return A.w(null,r)}})
