@@ -2799,19 +2799,19 @@
             "moon": "奇跡を司るマスオ"
         },
         "modeNames": {
-            "training": "BOT練習",
-            "hidden": "マスオ乱闘",
-            "duel": "真剣TV"
+            "training": "BOTだね",
+            "hidden": "闘争魔酢汚",
+            "duel": "タイマンアンパンパン"
         },
         "modeDescriptions": {
-            "training": "BOTと",
-            "hidden": "幼馴染と",
-            "duel": "知らない人と"
+            "training": "練習",
+            "hidden": "幼馴染",
+            "duel": "対戦"
         },
         "home": {
             "design": "設計",
             "designCredit": "メロン",
-            "art": "美術",
+            "art": "出演",
             "artCredit": "マスオ",
             "userName": "預言者の名前",
             "setUserName": "ありますかー？",
@@ -2821,24 +2821,24 @@
             "update": "更新ありますかー？"
         },
         "about": {
-            "about": "ver.2.0.0",
-            "version": "バージョン {{version}}",
-            "soundMaterials": "効果音素材",
-            "soundMaterialsCredit": "ザ・マッチメイカァズ",
-            "ptTranslation": "ポルトガル語翻訳",
-            "ptTranslationCredit": "Phobos & Igoor",
-            "zhHansTranslation": "簡体字中国語翻訳",
-            "zhHansTranslationCredit": "Mea Fanbox Group",
-            "frTranslation": "フランス語翻訳",
-            "frTranslationCredit": "Xirnatts",
-            "zhHantTranslation": "繁体字中国語翻訳",
-            "zhHantTranslationCredit": "藤田ちゅえん",
-            "koTranslation": "韓国語翻訳",
-            "koTranslationCredit": "MinJeong",
-            "ruTranslation": "ロシア語翻訳",
-            "ruTranslationCredit": "Master Cid",
-            "privacyPolicy": "プライバシーポリシー",
-            "licenses": "ライセンス"
+            "about": "クレジット",
+            "version": "バージョン 2.1.0",
+            "soundMaterials": "ゲイ",
+            "soundMaterialsCredit": "マスオ",
+            "ptTranslation": "幼馴染",
+            "ptTranslationCredit": "ヒカキン",
+            "zhHansTranslation": "幼馴染",
+            "zhHansTranslationCredit": "セイキン",
+            "frTranslation": "友人",
+            "frTranslationCredit": "ダンテ",
+            "zhHantTranslation": "友人",
+            "zhHantTranslationCredit": "アレンさん",
+            "koTranslation": "友人",
+            "koTranslationCredit": "さとちん",
+            "ruTranslation": "魚",
+            "ruTranslationCredit": "ベタ男",
+            "privacyPolicy": "And You!",
+            "licenses": "ライセンスオ"
         },
         "menu": {
             "userCount": "マスオ {{count}} 人",
