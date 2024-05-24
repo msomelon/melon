@@ -2813,7 +2813,7 @@
             "designCredit": "メロン",
             "art": "出演",
             "artCredit": "マスオ",
-            "userName": "お前誰だ？と思った方のためにご説明いたしますと、僕は、",
+            "userName": "お前誰だ？と思った方のために、ご説明いたしますと、僕は、",
             "setUserName": "ありますかー？",
             "userNameEmpty": "というかお前<br>誰だ？",
             "underMaintenance": "サーバーメンテナンス中なんだよね！？",
@@ -2822,7 +2822,7 @@
         },
         "about": {
             "about": "クレジット",
-            "version": "バージョン 2.1.1",
+            "version": "バージョン 2.1.3",
             "soundMaterials": "ゲイ",
             "soundMaterialsCredit": "マスオ",
             "ptTranslation": "幼馴染",
