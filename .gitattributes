@@ -1,0 +1,2 @@
+games/eiransho.html filter=lfs diff=lfs merge=lfs -text
+games/tamagobattle.html filter=lfs diff=lfs merge=lfs -text
